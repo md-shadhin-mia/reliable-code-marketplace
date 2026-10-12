@@ -1,0 +1,8 @@
+{
+  "name": "reliable-code",
+  "version": "1.0.0",
+  "description": "Backend and frontend reliability skills: contracts, edge-case tests, verification and honest reporting",
+  "author": {
+    "name": "SEG Digital"
+  }
+}

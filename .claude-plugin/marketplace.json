@@ -1,0 +1,14 @@
+{
+  "name": "reliable-code-marketplace",
+  "description": "Skills that help Claude write reliable, well-tested backend and frontend code",
+  "owner": {
+    "name": "SEG Digital"
+  },
+  "plugins": [
+    {
+      "name": "reliable-code",
+      "source": "./plugins/reliable-code",
+      "description": "Backend and frontend reliability skills: contracts, edge-case tests, verification and honest reporting"
+    }
+  ]
+}
